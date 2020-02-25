@@ -1,0 +1,12 @@
+5 images en entrée du réseau de neurone
+--> Conversion en tensor : (5,h,w,3)
+--> Passage du tensor dans YOLO : output = (5,h,w,3) = images croppées
+--> Passage du tensor dans VGG : output = (5,2,2) = classification ||||||| Passage du tensor dans Resnet : output = (5,2,2) = classification
+
+
+
+
+
+
+
+

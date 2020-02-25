@@ -1,0 +1,4 @@
+venv/
+.vscode/
+.idea/
+vgg_model.h5

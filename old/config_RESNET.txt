@@ -1,0 +1,5 @@
+batchsize = 8
+epoch = 20
+input_size = 32
+
+reussite = 95%
